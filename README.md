@@ -1,1 +1,2 @@
 # Allsubject
+sunskrit,devnagrilipi
